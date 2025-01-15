@@ -2,6 +2,8 @@
 
 I have been working in frontend development since 2022, creating high-quality and functional web applications. I focus primarily on building responsive interfaces, ensuring a great user experience, and optimizing performance.
 
+Занимаюсь фронтенд-разработкой с 2022 года, создавая качественные и функциональные веб-приложения. В первую очередь я фокусируюсь на создании адаптивных интерфейсов, обеспечении удобства взаимодействия с пользователем и оптимизации производительности.
+
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ne_gozi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ne_gozi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ne_gozi)
